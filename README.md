@@ -1,2 +1,2 @@
 # FinalYearProject
-This project predicts the hotel booking cancellation prediction.
+This project predicts the hotel booking prediction.
